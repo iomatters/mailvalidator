@@ -1,0 +1,5 @@
+[client]
+database=mydb
+user=dbuser
+password=userpassword
+host=dbhost
